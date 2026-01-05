@@ -1,3 +1,3 @@
 # spring-rest
 
-Basic restful service using spring rest
+What can latest Spring Boot do with REST
